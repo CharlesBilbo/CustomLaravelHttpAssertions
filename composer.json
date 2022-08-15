@@ -1,0 +1,12 @@
+{
+    "name": "charles/custom-http-assertions",
+    "description": "A Laravel package for creating custom laravel http assertions",
+    "type": "library",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "CharlesBilbo\\CustomHttpAssertions\\": "src"
+        }
+    }
+}
